@@ -42,7 +42,7 @@ git clone github.com/RNBaloyi/reservation-service
 ```bash
 ./mvnw spring-boot:run
 ```
-### 3.H2 Database Access
+### 3. H2 Database Access
 The app uses an in-memory H2 database that initializes automatically on startup.
 
 H2 Console URL: http://localhost:8082/h2-console
