@@ -35,7 +35,6 @@ com.restaurant.table
 
 ```bash
 git clone github.com/RNBaloyi/reservation-service
-cd table-microservice
 ```
 
 ### 2. Run the application
@@ -105,6 +104,4 @@ PUT /tables/{tableId}
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
