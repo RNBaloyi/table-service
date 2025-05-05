@@ -45,9 +45,9 @@ git clone github.com/RNBaloyi/reservation-service
 ### 3. H2 Database Access
 The app uses an in-memory H2 database that initializes automatically on startup.
 
-H2 Console URL: http://localhost:8082/h2-console
+H2 Console URL: http://localhost:8081/h2-console
 
-JDBC URL: jdbc:h2:mem:reservationsdb
+JDBC URL: jdbc:h2:mem:tablesdb
 
 Username: sa
 
